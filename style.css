@@ -1,0 +1,16 @@
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #d1f4f4;
+
+}
+.gallery {background-color: #d1f4f4;}
+section {
+    padding-top: 6rem;
+}
+.atas a i{
+    font-size: 3rem;
+    z-index: 9999;
+    opacity: .5;
+
+}
